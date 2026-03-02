@@ -21,7 +21,8 @@ Mes thèmes de recherche incluent le **calcul scientifique**, les **méthodes nu
 
 ## Prépublications
 
-1. **L. Poggioni**, D. Clamond, et Y. D'Angelo. *A new class of finite difference methods: The zigzag schemes.* arXiv:2505.17969, 2025. [[arXiv]](https://arxiv.org/abs/2505.17969) [[PDF]](https://arxiv.org/pdf/2505.17969.pdf)
+1. **L. Poggioni**, D. Clamond, Y. D'Angelo and S. Abide. *A novel infinite-order method for nonlinear advection
+models: The zigzag schemes.* hal-05075534, 2025. [[HAL]](https://hal.science/hal-05075534) [[PDF]](./assets/paper.pdf)
 
 ---
 
