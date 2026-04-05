@@ -1,0 +1,22 @@
+# Jekyll build output (GitHub Pages builds this server-side)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+*.bak
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Ruby
+vendor/
+.bundle/

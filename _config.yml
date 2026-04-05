@@ -9,5 +9,15 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 url: "https://lpoggioni.github.io"
 
+# Plugins (all supported natively by GitHub Pages)
 plugins:
-  - jekyll-sitemap
+  - jekyll-sitemap                       # auto-generates /sitemap.xml
+  - jekyll-seo-tag                       # optional: adds <meta> SEO tags
+
+  # Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - jp.md~
+  - "*.swp"
