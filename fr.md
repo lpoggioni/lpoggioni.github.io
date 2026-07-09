@@ -7,7 +7,6 @@ permalink: /fr/
 <p align="right">
   <a href="../">English</a> | 
   <strong>Français</strong> | 
-  <a href="../jp/">日本語</a>
 </p>
 
 # Bienvenue sur mon site web
@@ -32,6 +31,8 @@ models: The zigzag schemes.* hal-05075534, 2025. [[HAL]](https://hal.science/hal
 
 * **Solveur de différences finies d'ordre élevé pour les équations de Navier-Stokes** : Conception d'un schéma de différences finies d'ordre arbitraire avec des contraintes de stabilité optimisées pour les équations de Navier-Stokes incompressibles, adapté aux implémentations de calcul haute performance à grande échelle.
 
+* **Noyaux de déaliasing optimisés pour les méthodes pseudo-spectrales** : Conception de noyaux améliorés pour ces méthodes. Ils empêchent l'accumulation des erreurs d'aliasing et du phénomène de Gibbs, tout en préservant plus de 95 % des nombres d'onde.
+
 ---
 
 ## Enseignement
@@ -42,7 +43,7 @@ models: The zigzag schemes.* hal-05075534, 2025. [[HAL]](https://hal.science/hal
 
 ## Éducation
 * **Doctorat en Mathématiques Appliquées**, *Université Côte d'Azur*, 2023 – Présent.
-    * Soutenance prévue : second semestre 2026.
+    * Soutenance prévue : octobre 2026.
 * **Master en Mathématiques Pures et Appliquées**, *Université Côte d'Azur*, 2021 – 2023.
 * **Licence de Mathématiques**, *Université Côte d'Azur*, 2020 – 2021.
     * Effectuée après deux ans de CPGE (MPSI/MP) au *Centre International de Valbonne*.

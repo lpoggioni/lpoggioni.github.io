@@ -6,7 +6,6 @@ title: Home
 <p align="right">
   <strong>English</strong> | 
   <a href="./fr/">Français</a> | 
-  <a href="./jp/">日本語</a>
 </p>
 
 # Welcome to my website
@@ -31,6 +30,8 @@ models: The zigzag schemes.* hal-05075534, 2025. [[HAL]](https://hal.science/hal
 * **Improved pseudo-spectral methods for nonlinear advection models**: Developing an efficient, HPC-compatible numerical scheme featuring a spectral accuracy with enhanced stability properties for nonlinear advection problems.
 
 * **Efficient high-order HPC finite-difference solver for the Navier--Stockes equations**: Designing an arbitrary-order finite-difference scheme with optimised stability constraints for the incompressible Navier-Stokes equations, tailored for scalable high-performance computing implementations.
+
+* **Optimised dealiasing kernels for pseudo-spectral methods**: Design of improved kernels for these methods. They prevent both the accumulation of aliasing errors and the Gibbs phenomenon while preserving over 95% of the wavenumbers.
 
 ---
 
